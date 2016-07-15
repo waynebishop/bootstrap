@@ -1,0 +1,6 @@
+.bgimage {
+	background-image: url('../images/bruce-600x400.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+}
